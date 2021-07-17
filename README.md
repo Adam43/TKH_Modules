@@ -2,7 +2,8 @@
 
 Project Name: TKH WEB DEVELOPMENT MODULES
 
-Description: This project will display all my work that I've completed and will complete as I'm in the The Knowledge House (TKH) Summer Intensive Program for 2021. Starting from July 2021 to Septemper 2021.
+Description: This project will display all my work that I've completed and will complete as I'm in the The Knowledge House (TKH) Summer Intensive Program for 2021. 
+Starting from July 2021 to Septemper 2021.
 
 Table of Contents:
 1. Module_1_What_is_Code  
