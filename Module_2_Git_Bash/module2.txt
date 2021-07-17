@@ -1,0 +1,7 @@
+Kwame Bullen
+Web Development
+
+
+1. Git is a version control system for developers. It is used for managing changes to your codebase. GitHub is a public platform that is used to host Git Repositories.
+2. It is best to use the terminal for greater efficiency for the creation of project folders and file structures. It is also faster for navigation and provides more details than the GUI.
+3. The benefits of a version control system is one to manage changes that is made in your codebase. Two, it allows multiple people to work on the same files. And three, for changes to be tracked. 
