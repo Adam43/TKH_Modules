@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 						TOP 
+=======
+						TOP
+>>>>>>> Module4
 */
 
 :root{
@@ -10,7 +14,11 @@
 	--font:'Bebas Neue', cursive;
 	--shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rga(0,0,0,0.23)
 }
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> Module4
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
@@ -35,7 +43,11 @@ body{
 	display:flex;
 	flex-flow:wrap;
 	align-items:center;
+<<<<<<< HEAD
 	list-style-type:none; 
+=======
+	list-style-type:none;
+>>>>>>> Module4
 	background-color:var(--forth-color);
 	position:fixed;
 	top:0;
@@ -59,7 +71,11 @@ a{
 a:hover{
 	Color:var(--first-color);
 }
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> Module4
 .banner li{
 	display:inline;
 	margin:1rem;
@@ -133,7 +149,11 @@ a:hover{
 .projects h2{
 	width:100%;
 	margin: 1rem;
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> Module4
 
 .project{
 	text-align:center;

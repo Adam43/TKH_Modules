@@ -1,5 +1,5 @@
 /*
-						TOP 
+						TOP
 */
 
 :root{
@@ -9,11 +9,12 @@
 	--forth-color:black;
 	--font:'Bebas Neue', cursive;
 	--shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rga(0,0,0,0.23)
-}
-	
+
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+}
 
 html{font-size:calc(1em+1vw)}
 button{font-size:inherit}
@@ -35,7 +36,7 @@ body{
 	display:flex;
 	flex-flow:wrap;
 	align-items:center;
-	list-style-type:none; 
+	list-style-type:none;
 	background-color:var(--forth-color);
 	position:fixed;
 	top:0;
@@ -59,7 +60,7 @@ a{
 a:hover{
 	Color:var(--first-color);
 }
-	
+
 .banner li{
 	display:inline;
 	margin:1rem;
@@ -133,7 +134,7 @@ a:hover{
 .projects h2{
 	width:100%;
 	margin: 1rem;
-} 
+}
 
 .project{
 	text-align:center;
